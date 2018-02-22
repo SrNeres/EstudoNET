@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\BLL.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\DTO.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\bin\x86\Debug\DTO.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\obj\x86\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\obj\x86\Debug\BLL.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\BLL\obj\x86\Debug\BLL.pdb

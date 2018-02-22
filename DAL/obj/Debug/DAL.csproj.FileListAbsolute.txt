@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\bin\Debug\DTO.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\bin\Debug\DTO.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DAL\obj\Debug\DAL.pdb

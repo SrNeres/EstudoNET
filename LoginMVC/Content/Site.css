@@ -1,0 +1,62 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.campo input {
+    margin-left: 4px;
+}
+
+#submit{
+   float: right;
+}
+
+.caixa{
+    
+    width: auto;
+    margin: 0 auto;
+    position:absolute;
+
+}
+
+.formulario {
+    border-style: solid;
+    margin-top: 30px;
+    border-style: groove;
+    padding: 50px;
+    width: auto;
+    position: absolute;
+}
+
+.editor-campo input{
+   width: 300px;
+}
+
+.editor-campo input:hover .validation-summary-errors text-danger{
+  display:none;
+}
+
+.login{
+ /*margin-left: 899px;*/
+ margin-right: 1px;
+}
+
+.grid{
+    float:right;
+    padding: 3px;
+   margin-top: 10px;
+   
+}

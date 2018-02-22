@@ -1,0 +1,33 @@
+﻿@model DTO.Usuario
+
+@{
+    ViewBag.Title = "Index";
+
+
+}
+
+
+
+<div class="caixa">
+    <h2>Login</h2>
+    <form method="post" action="/Login/Acessar" id="form1">
+        <div class="campo">
+            @Html.LabelFor(model => model.login)
+            @Html.TextBoxFor(model => model.login)
+
+        </div>
+        <div class="campo2">
+            @Html.LabelFor(model => model.senha)
+            @Html.TextBoxFor(model => model.senha)
+        </div>
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+        <br />
+        <input name="btnAcessar" type="submit" id="submit" value="Acessar" />
+
+
+    </form>
+    <br /><br />
+    <footer>
+        <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+    </footer>
+</div>

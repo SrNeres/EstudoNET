@@ -1,0 +1,55 @@
+﻿@model DTO.Usuario
+
+@{
+    ViewBag.Title = "Cadastro View";
+
+}
+
+<div class="formulario">
+    <form method="post" action="/Cadastro/Cadastrar" id="form1">
+
+
+        <h1>Cadastrar</h1>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => Model.login)
+        </div>
+        <div class="editor-campo">
+            @Html.TextBoxFor(model => Model.login)
+        </div>
+        <br />
+        <div class="editor-label">
+            @Html.LabelFor(model => Model.senha)
+        </div>
+        <div class="editor-campo">
+            @Html.TextBoxFor(model => Model.senha)
+        </div>
+        <br />
+        <div class="editor-label">
+            @Html.LabelFor(model => Model.email)
+        </div>
+        <div class="editor-campo">
+            @Html.TextBoxFor(model => Model.email)
+        </div>
+        <br />
+        <div class="editor-label">
+            @Html.LabelFor(model => Model.telefone)
+        </div>
+        <div class="editor-campo">
+            @Html.TextBoxFor(model => Model.telefone)
+        </div>
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+        <br />
+        <div>
+            <input type="submit" value="Salvar" />
+        </div>
+
+
+
+
+    </form>
+</div>
+
+<div class="grid">
+    @Html.Raw(ViewBag.GridViewString)
+</div>

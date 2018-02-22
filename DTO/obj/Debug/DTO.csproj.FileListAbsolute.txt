@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DTO\bin\Debug\DTO.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DTO\bin\Debug\DTO.pdb
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DTO\obj\Debug\DTO.dll
+C:\Users\Usuario\Desktop\Login_AdoNet_Camadas\DTO\obj\Debug\DTO.pdb
